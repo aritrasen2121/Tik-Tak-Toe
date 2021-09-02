@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="score_x">Score X = 0</string>
+    <string name="score_0">Score 0 = 0</string>
+    <string name="reset">RESET</string>
+    <string name="todo">TODO</string>
+</resources>
